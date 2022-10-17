@@ -3,4 +3,4 @@ video_games
 
 [Link for the dataset on Kaggle](https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset)
 
-Video Games Sales - data analysis and insights revealing.
+Video Games Sales - data analysis and sales prediction.
